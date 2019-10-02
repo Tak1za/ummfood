@@ -1,0 +1,15 @@
+1. Get /api/recipes/search
+
+2. get /api/recipes/{id}
+
+3. get /api/recipes/{id}/equipments
+
+4. get /api/recipes/{id}/ingredients
+
+5. get /api/recipe/{id}/nutrition
+
+6. get /api/recipe/{id}/instructions
+
+7. get /api/recipes/{id}/summary
+
+8. get /api/converse
